@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khushdeep Kaur
-- 👀 I’m a student pursuinng bachelors in ARTIFICIAL INTELIGENCE
+- 👀 I’m a student pursuing bachelors in ARTIFICIAL INTELLIGENCE
 - 🌱 I’m currently learning Genrative AI,Deep learning.
 - 💞️ I’m looking to collaborate on Machine learning and Deep learning
 - 📫 How to reach me Khushdeep2122@gmail.com
