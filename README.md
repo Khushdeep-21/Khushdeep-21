@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khushdeep Kaur
 - 👀 I’m a student pursuing bachelors in ARTIFICIAL INTELLIGENCE
 - 🌱 I’m currently learning Genrative AI,Deep learning.
-- 💞️ I’m looking to collaborate on Machine learning and Deep learning
+- 💞️ I’m looking to collaborate on Data Analysis and AI/ML.
 - 📫 How to reach me Khushdeep2122@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to Dance...
